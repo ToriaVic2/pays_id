@@ -1,0 +1,104 @@
+{
+  "countries": [
+    {
+      "name": "France",
+      "code": "+33",
+      "flag_url": "https://flagcdn.com/fr.svg"
+    },
+    {
+      "name": "United States",
+      "code": "+1",
+      "flag_url": "https://flagcdn.com/us.svg"
+    },
+    {
+      "name": "Canada",
+      "code": "+1",
+      "flag_url": "https://flagcdn.com/ca.svg"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "+44",
+      "flag_url": "https://flagcdn.com/gb.svg"
+    },
+    {
+      "name": "Germany",
+      "code": "+49",
+      "flag_url": "https://flagcdn.com/de.svg"
+    },
+    {
+      "name": "Australia",
+      "code": "+61",
+      "flag_url": "https://flagcdn.com/au.svg"
+    },
+    {
+      "name": "India",
+      "code": "+91",
+      "flag_url": "https://flagcdn.com/in.svg"
+    },
+    {
+      "name": "Japan",
+      "code": "+81",
+      "flag_url": "https://flagcdn.com/jp.svg"
+    },
+    {
+      "name": "Brazil",
+      "code": "+55",
+      "flag_url": "https://flagcdn.com/br.svg"
+    },
+    {
+      "name": "South Africa",
+      "code": "+27",
+      "flag_url": "https://flagcdn.com/za.svg"
+    },
+    {
+      "name": "China",
+      "code": "+86",
+      "flag_url": "https://flagcdn.com/cn.svg"
+    },
+    {
+      "name": "Russia",
+      "code": "+7",
+      "flag_url": "https://flagcdn.com/ru.svg"
+    },
+    {
+      "name": "Mexico",
+      "code": "+52",
+      "flag_url": "https://flagcdn.com/mx.svg"
+    },
+    {
+      "name": "Italy",
+      "code": "+39",
+      "flag_url": "https://flagcdn.com/it.svg"
+    },
+    {
+      "name": "Spain",
+      "code": "+34",
+      "flag_url": "https://flagcdn.com/es.svg"
+    },
+    {
+      "name": "South Korea",
+      "code": "+82",
+      "flag_url": "https://flagcdn.com/kr.svg"
+    },
+    {
+      "name": "Argentina",
+      "code": "+54",
+      "flag_url": "https://flagcdn.com/ar.svg"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "+966",
+      "flag_url": "https://flagcdn.com/sa.svg"
+    },
+    {
+      "name": "Nigeria",
+      "code": "+234",
+      "flag_url": "https://flagcdn.com/ng.svg"
+    },
+    {
+      "name": "Turkey",
+      "code": "+90",
+      "flag_url": "https://flagcdn.com/tr.svg"
+    }
+  ]
+}
